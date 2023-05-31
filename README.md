@@ -4,6 +4,8 @@
 - Código: 55789
 ## Descripcion
 En este proyecto lo que se va mostrar es el uso de componentes enseñados en la materia con el afan de crear una aplicacion que genera contraseñas, donde podremos poner nuestro nombre y nuestra cuanta de gmail para la que se quiere la contraseña y por ultimo generar la contraseña donde se tendrá un historial de contraseñas para ver cual es la que mas te a gustado o cual es la que quisieras usar, a continuacion se mostrará una imagen de la aplicacion:
+![image](https://github.com/Pabdro/proyecto-contrase-as/assets/80706043/6af62a25-90ac-4db7-b696-a3eeba797344)
+
 ![image](https://github.com/Pabdro/proyecto-contrase-as/assets/80706043/7521a9d7-f9a6-4bb9-8e2c-049b5a9a63bf)
 
 ## Link del video explicando cada parte del codigo
